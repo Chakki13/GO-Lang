@@ -1,0 +1,21 @@
+# Binaries
+cost-detector
+*.o
+*.a
+*.so
+
+# Go
+go.sum
+vendor/
+
+# Environment
+.env
+.env.local
+config/secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
