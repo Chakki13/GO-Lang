@@ -1,5 +1,5 @@
-# Binaries
-cost-detector
+# Binaries (but NOT the folder)
+/cost-detector
 *.o
 *.a
 *.so
